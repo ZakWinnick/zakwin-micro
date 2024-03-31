@@ -1,0 +1,217 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Zak Winnick",
+	"icon": "https://micro.blog/zakwin/avatar.jpg",
+	"home_page_url": "https://winnick.io/",
+	"feed_url": "https://winnick.io/feed.json",
+	"items": [
+		
+			{
+				"id": "http://zakwin.micro.blog/2024/03/06/when-your-company.html",
+				
+				"content_html": "<p>When your company holds their annual off-site meeting, but you&rsquo;re the newest employee and don&rsquo;t know anyone&hellip;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "When your company holds their annual off-site meeting, but you're the newest employee and don't know anyone...\n\n<img src=\"uploads/2024/7005a7d5eb.jpg\" class=\"size-full\" width=\"1500\" height=\"2000\">\n",
+				"date_published": "2024-03-06T15:45:15-07:00",
+				"url": "https://winnick.io/2024/03/06/when-your-company.html",
+				"tags": ["Photos","Status"]
+			},
+			{
+				"id": "http://zakwin.micro.blog/2024/01/31/new-office-with.html",
+				
+				"content_html": "<p>New office with Bay vibes.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "New office with Bay vibes.\n\n<img src=\"uploads/2024/8d9444da4a.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-01-31T13:51:43-07:00",
+				"url": "https://winnick.io/2024/01/31/new-office-with.html",
+				"tags": ["Photos"]
+			},
+			{
+				"id": "http://zakwin.micro.blog/2024/01/04/when-in-rome.html",
+				
+				"content_html": "<p>When in Rome&hellip;</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "When in Rome...\n\n<img src=\"uploads/2024/0204128c49.jpg\" class=\"size-full\">\n\n<img src=\"uploads/2024/f4f23cb4ca.jpg\" class=\"size-full\">\n\n<img src=\"uploads/2024/265c034d1b.jpg\" class=\"size-full\">\n",
+				"date_published": "2024-01-04T13:29:24-07:00",
+				"url": "https://winnick.io/2024/01/04/when-in-rome.html",
+				"tags": ["Photos","Status"]
+			},
+			{
+				"id": "http://zakwin.micro.blog/2024/01/01/when-your-mom.html",
+				
+				"content_html": "<p>When your mom orders fortune cookies from Amazon, but she’s partially blind and doesn’t actually read the whole description…</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "When your mom orders fortune cookies from Amazon, but she’s partially blind and doesn’t actually read the whole description…\n<figure><img src=\"uploads/2024/f281ea2e40.jpg\" class=\"size-full\"></figure>\n<figure><img src=\"uploads/2024/e592f543e7.jpg\" class=\"size-full\"></figure>\n<figure></figure>\n",
+				"date_published": "2024-01-01T20:20:52-07:00",
+				"url": "https://winnick.io/2024/01/01/when-your-mom.html",
+				"tags": ["Photos","Posts","Status"]
+			},
+			{
+				"id": "http://zakwin.micro.blog/2023/12/31/finally-started-watching.html",
+				
+				"content_html": "<p>Finally started watching, and caught up, on Monarch.</p>\n<p>I’m really enjoying the show, but I seriously hate the writing. It’s like a college screenwriting student wrote the dialogue.</p>\n<p>Is it just me, or am I right?</p>\n",
+				"content_text": "Finally started watching, and caught up, on Monarch. \n\nI’m really enjoying the show, but I seriously hate the writing. It’s like a college screenwriting student wrote the dialogue. \n\nIs it just me, or am I right?\n",
+				"date_published": "2023-12-31T22:58:41-07:00",
+				"url": "https://winnick.io/2023/12/31/finally-started-watching.html",
+				"tags": ["Status"]
+			},
+			{
+				"id": "http://zakwin.micro.blog/2023/12/15/how-am-i.html",
+				
+				"content_html": "<p>How am I just now hearing about <!-- raw HTML omitted -->Bardcore<!-- raw HTML omitted -->?!</p>\n",
+				"content_text": "How am I just now hearing about <a href=\"https://music.apple.com/us/artist/bardcore/1537773807\" target=\"_blank\" rel=\"noopener\">Bardcore</a>?!\n",
+				"date_published": "2023-12-15T09:15:43-07:00",
+				"url": "https://winnick.io/2023/12/15/how-am-i.html",
+				"tags": ["Status"]
+			},
+			{
+				"id": "http://zakwin.micro.blog/2023/12/12/that-time-that.html",
+				
+				"content_html": "<p>That time that my friend and I were in the LA Times, talking about our aviation club&hellip;</p>\n<p><!-- raw HTML omitted -->Prep School Address Helps Aviation Class - Los Angeles Times<!-- raw HTML omitted --></p>\n",
+				"content_text": "That time that my friend and I were in the LA Times, talking about our aviation club...\n\n<a href=\"https://www.latimes.com/archives/la-xpm-1997-04-19-me-50210-story.html\" target=\"_blank\" rel=\"noopener\">Prep School Address Helps Aviation Class - Los Angeles Times</a>\n",
+				"date_published": "2023-12-12T11:21:43-07:00",
+				"url": "https://winnick.io/2023/12/12/that-time-that.html",
+				"tags": ["Status"]
+			},
+			{
+				"id": "http://zakwin.micro.blog/2023/12/06/of-course-the.html",
+				
+				"content_html": "<p>Of course the<!-- raw HTML omitted --> Tesla Holiday Update<!-- raw HTML omitted --> brings Apple Podcasts to the cars…right after I switch back to Overcast. 😂</p>\n",
+				"content_text": "Of course the<a href=\"https://www.notateslaapp.com/software-updates/version/2023.44.25/release-notes\" target=\"_blank\" rel=\"noopener\"> Tesla Holiday Update</a> brings Apple Podcasts to the cars…right after I switch back to Overcast. 😂\n",
+				"date_published": "2023-12-06T22:10:21-07:00",
+				"url": "https://winnick.io/2023/12/06/of-course-the.html",
+				"tags": ["Status"]
+			},
+			{
+				"id": "http://zakwin.micro.blog/2023/12/04/playing-around-with.html",
+				
+				"content_html": "<p>Playing around with <!-- raw HTML omitted -->Eleven Labs<!-- raw HTML omitted -->' speech synthesis, I made a trailer for a (not-so) new podcast, the <!-- raw HTML omitted -->StickWorld Podcast<!-- raw HTML omitted -->.</p>\n<p>I thought it was kind of fun&hellip;</p>\n",
+				"content_text": "Playing around with <a href=\"https://elevenlabs.io/\" target=\"_blank\" rel=\"noopener\">Eleven Labs</a>' speech synthesis, I made a trailer for a (not-so) new podcast, the <a href=\"https://www.stickworldpodcast.com/\" target=\"_blank\" rel=\"noopener\">StickWorld Podcast</a>.\n\nI thought it was kind of fun...\n",
+				"date_published": "2023-12-04T15:04:47-07:00",
+				"url": "https://winnick.io/2023/12/04/playing-around-with.html",
+				"tags": ["Status"]
+			},
+			{
+				"id": "http://zakwin.micro.blog/2023/11/02/the-new-beatles.html",
+				
+				"content_html": "<p>The new Beatles song, <!-- raw HTML omitted -->Now and Then<!-- raw HTML omitted -->, is gorgeous.</p>\n<p>It’s been a long time since a song moved me the way this did…for many reasons.</p>\n",
+				"content_text": "The new Beatles song, <a href=\"https://music.apple.com/us/album/now-and-then/1713197371?i=1713197541\" target=\"_blank\" rel=\"noopener\">Now and Then</a>, is gorgeous.\n\nIt’s been a long time since a song moved me the way this did…for many reasons.\n",
+				"date_published": "2023-11-02T22:14:43-07:00",
+				"url": "https://winnick.io/2023/11/02/the-new-beatles.html",
+				"tags": ["Status"]
+			},
+			{
+				"id": "http://zakwin.micro.blog/2023/10/31/picked-up-a.html",
+				
+				"content_html": "<p>Picked up a pair of AirPods Pro with the USB-C case.</p>\n<p>Gotta say…I love Adaptive Audio.</p>\n<p>It took me about an hour to get used to it, and now I don’t know how I can use any other headphones…</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Picked up a pair of AirPods Pro with the USB-C case.\n\nGotta say…I love Adaptive Audio.\n\nIt took me about an hour to get used to it, and now I don’t know how I can use any other headphones…\n<figure><img src=\"uploads/2024/31dac2c4ac.jpg\" class=\"size-full\"></figure>\n",
+				"date_published": "2023-10-31T18:34:59-07:00",
+				"url": "https://winnick.io/2023/10/31/picked-up-a.html",
+				"tags": ["Photos","Status"]
+			},
+			{
+				"id": "http://zakwin.micro.blog/2023/10/26/morning-reflections-over.html",
+				
+				"content_html": "<p>Morning reflections over a nice, hot cup of <!-- raw HTML omitted -->Yorkshire Tea<!-- raw HTML omitted -->.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Morning reflections over a nice, hot cup of <a href=\"https://www.yorkshiretea.com\" target=\"_blank\" rel=\"noopener\">Yorkshire Tea</a>.\n<figure><img src=\"https://zakwin.micro.blog/uploads/2024/d5544dfac7.jpg\" class=\"size-full\"></figure>\n",
+				"date_published": "2023-10-26T19:34:49-07:00",
+				"url": "https://winnick.io/2023/10/26/morning-reflections-over.html",
+				"tags": ["Photos","Status"]
+			},
+			{
+				"id": "http://zakwin.micro.blog/2023/10/01/preseason-between-the.html",
+				
+				"content_html": "<p>Preseason between the San Jose Sharks and LA Kings (well, the Ontario Reign, the Kings AHL team, playing as the Kings for the preseason).</p>\n<p>It was weird seeing hockey in a different arena than Staples Center (I refuse to call it by its new name).</p>\n<p>Kings beat the Sharks 2-1 in a great OT period.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Preseason between the San Jose Sharks and LA Kings (well, the Ontario Reign, the Kings AHL team, playing as the Kings for the preseason).\n\nIt was weird seeing hockey in a different arena than Staples Center (I refuse to call it by its new name).\n\nKings beat the Sharks 2-1 in a great OT period.\n<figure><img src=\"https://zakwin.micro.blog/uploads/2024/a1e54fea2e.jpg\" class=\"size-full\"></figure>\n",
+				"date_published": "2023-10-01T00:42:45-07:00",
+				"url": "https://winnick.io/2023/10/01/preseason-between-the.html",
+				"tags": ["Photos","Status"]
+			},
+			{
+				"id": "http://zakwin.micro.blog/2023/09/15/iphone-to-the.html",
+				"title": "iPhone 15 to the (Ultra) Max",
+				"content_html": "<p>Woke up at 450a to order the new iPhone (upgrading from the 14 Pro Max, getting the 15 Pro Max).</p>\n<p>Ordered through Verizon (my carrier) because they were offering some really great incentives (including the Watch Ultra 2, which I don&rsquo;t need, but got anyway).</p>\n<p>3.5 hours later&hellip;</p>\n<p>After some ridiculous issues with Verizon (balance due on an account I had with them years ago), and my bank being stupid (but safe, thankfully), everything was ordered.</p>\n<p>This was the first time in several years that I had any issues with pre-ordering. I forgot how horrible the experience was if one little thing goes wrong&hellip;</p>\n",
+				"content_text": "Woke up at 450a to order the new iPhone (upgrading from the 14 Pro Max, getting the 15 Pro Max).\n\nOrdered through Verizon (my carrier) because they were offering some really great incentives (including the Watch Ultra 2, which I don't need, but got anyway).\n\n3.5 hours later...\n\nAfter some ridiculous issues with Verizon (balance due on an account I had with them years ago), and my bank being stupid (but safe, thankfully), everything was ordered.\n\nThis was the first time in several years that I had any issues with pre-ordering. I forgot how horrible the experience was if one little thing goes wrong...\n",
+				"date_published": "2023-09-15T09:05:41-07:00",
+				"url": "https://winnick.io/2023/09/15/iphone-to-the.html",
+				"tags": ["Posts"]
+			},
+			{
+				"id": "http://zakwin.micro.blog/2023/07/21/rip-tony-bennett.html",
+				
+				"content_html": "<p>RIP Tony Bennett.</p>\n<p>I was only 2 when this concert happened, but it was the reason I got into singer-led jazz.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "RIP Tony Bennett.\n\nI was only 2 when this concert happened, but it was the reason I got into singer-led jazz.\n<figure><img src=\"https://zakwin.micro.blog/uploads/2024/5ff27f1e94.jpg\" class=\"size-full\"></figure>\n",
+				"date_published": "2023-07-21T10:33:29-07:00",
+				"url": "https://winnick.io/2023/07/21/rip-tony-bennett.html",
+				"tags": ["Photos","Status"]
+			},
+			{
+				"id": "http://zakwin.micro.blog/2023/07/01/land-and-water.html",
+				
+				"content_html": "<p><!-- raw HTML omitted -->Land and Water Coffee<!-- raw HTML omitted --> repping alt.drinks in 2023.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "<a href=\"https://landandwater.coffee\" target=\"_blank\" rel=\"noopener\">Land and Water Coffee</a> repping alt.drinks in 2023.\n<figure><img src=\"https://zakwin.micro.blog/uploads/2024/5adeacd66c.jpg\" class=\"size-full\"></figure>\n",
+				"date_published": "2023-07-01T14:16:33-07:00",
+				"url": "https://winnick.io/2023/07/01/land-and-water.html",
+				"tags": ["Photos","Status"]
+			},
+			{
+				"id": "http://zakwin.micro.blog/2023/06/15/this-video-by.html",
+				
+				"content_html": "<p><!-- raw HTML omitted -->This <!-- raw HTML omitted -->video by <!-- raw HTML omitted -->MKBHD<!-- raw HTML omitted --> is a fascinating dive into how Apple markets its products without using “common” buzzwords.</p>\n<p>As a former Apple employee, I can safely say we find it annoying as well. 😏</p>\n",
+				"content_text": "<a href=\"https://youtube.com/watch?v=kvN5_GXlg2Y&feature=share8\" target=\"_blank\" rel=\"noopener\">This </a>video by <a href=\"https://mkbhd.com\" target=\"_blank\" rel=\"noopener\">MKBHD</a> is a fascinating dive into how Apple markets its products without using “common” buzzwords.\n\nAs a former Apple employee, I can safely say we find it annoying as well. 😏\n",
+				"date_published": "2023-06-15T20:49:59-07:00",
+				"url": "https://winnick.io/2023/06/15/this-video-by.html",
+				"tags": ["Status"]
+			},
+			{
+				"id": "http://zakwin.micro.blog/2023/06/10/drove-out-to.html",
+				
+				"content_html": "<p>Drove out to <!-- raw HTML omitted -->Francis Ford Coppola Winery<!-- raw HTML omitted --> today. I was really excited, but came out disappointed. I was really expecting more from the &ldquo;museum&rdquo;.</p>\n<p>However, it did allow for a stop in Downtown Healdsburg, where one of my favorite butcher shops in all of CA resides, <!-- raw HTML omitted -->Journeyman Meat Co.<!-- raw HTML omitted --></p>\n<p>Plus, they have these awesome paintings in the bathroom&hellip;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Drove out to <a href=\"https://www.francisfordcoppolawinery.com/\" target=\"_blank\" rel=\"noopener\">Francis Ford Coppola Winery</a> today. I was really excited, but came out disappointed. I was really expecting more from the \"museum\".\n\nHowever, it did allow for a stop in Downtown Healdsburg, where one of my favorite butcher shops in all of CA resides, <a href=\"https://journeymanmeat.com/\" target=\"_blank\" rel=\"noopener\">Journeyman Meat Co.</a>\n\nPlus, they have these awesome paintings in the bathroom...\n<figure><img src=\"https://zakwin.micro.blog/uploads/2024/62c45156a2.jpg\" class=\"size-full\"><img src=\"https://zakwin.micro.blog/uploads/2024/227477b527.jpg\" class=\"size-full\"><img src=\"https://zakwin.micro.blog/uploads/2024/705e66f86e.jpg\" class=\"size-full\"></figure>\n<figure></figure>\n<figure></figure>\n",
+				"date_published": "2023-06-10T18:17:35-07:00",
+				"url": "https://winnick.io/2023/06/10/drove-out-to.html",
+				"tags": ["Photos","Posts"]
+			},
+			{
+				"id": "http://zakwin.micro.blog/2023/06/05/initial-thoughts-on.html",
+				"title": "Initial Thoughts on Vision Pro",
+				"content_html": "<p>Here are some of my thoughts on the new <!-- raw HTML omitted -->Apple Vision Pro<!-- raw HTML omitted -->&hellip;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Here are some of my thoughts on the new <a href=\"https://www.apple.com/apple-vision-pro/\" target=\"_blank\" rel=\"noopener\">Apple Vision Pro</a>...\n<ul>\n \t<li>$3499. Yikes. However, I think I can get over that with the rest of my points...</li>\n \t<li>This is an amazing piece of technology. What they packed in there is just insane.</li>\n \t<li>It essentially eliminated the need for pretty much every tech-driven device in your house.</li>\n \t<li>You no longer need a TV, sound system, or a computer.</li>\n \t<li>Obviously, I am writing this *right after* the Keynote, so I don't know what connectivity looks like, so there could be more on this list.</li>\n \t<li>Looking at it from an enterprise perspective, the $3499 price tag is roughly in the mid-point of what companies spend on new hire equipment and setup. Just give them one of these, and they're set (even for remote work).</li>\n \t<li>All the tech that Apple has been working on for, at least, the past 5-7 years was to get to this product. It's quite remarkable.</li>\n</ul>\nThat's all for now. I'm sure I'll have more thoughts as I watch videos from the demo area, and subsequent follow-up videos from my favorite tech peeps.\n",
+				"date_published": "2023-06-05T12:21:23-07:00",
+				"url": "https://winnick.io/2023/06/05/initial-thoughts-on.html",
+				"tags": ["Posts"]
+			},
+			{
+				"id": "http://zakwin.micro.blog/2023/04/15/beautiful-day-for.html",
+				
+				"content_html": "<p>Beautiful day for Mets baseball. I’ve now seen them play in 8 parks around the country. Of course, they beat the A’s 3-2.</p>\n<p>It was a good day…</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Beautiful day for Mets baseball. I’ve now seen them play in 8 parks around the country. Of course, they beat the A’s 3-2.\n\nIt was a good day…\n<figure><img src=\"https://zakwin.micro.blog/uploads/2024/8039605d89.jpg\" class=\"size-full\"></figure>\n",
+				"date_published": "2023-04-15T20:54:29-07:00",
+				"url": "https://winnick.io/2023/04/15/beautiful-day-for.html",
+				"tags": ["Photos","Status"]
+			},
+			{
+				"id": "http://zakwin.micro.blog/2023/04/08/way-more-happy.html",
+				
+				"content_html": "<p>Way more happy than I should be to have my <!-- raw HTML omitted -->Breville Oracle Touch<!-- raw HTML omitted --> back from repair.</p>\n<p>I almost forgot what a good cup of home brewed coffee tasted like.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Way more happy than I should be to have my <a href=\"//www.breville.com/us/en/products/espresso/bes990.html%5C\" target=\"_blank\" rel=\"noopener\">Breville Oracle Touch</a> back from repair.\n\nI almost forgot what a good cup of home brewed coffee tasted like.\n<figure><img src=\"https://zakwin.micro.blog/uploads/2024/82f934ad23.jpg\" class=\"size-full\"></figure>\n",
+				"date_published": "2023-04-08T11:06:14-07:00",
+				"url": "https://winnick.io/2023/04/08/way-more-happy.html",
+				"tags": ["Photos","Status"]
+			},
+			{
+				"id": "http://zakwin.micro.blog/2023/03/28/fog-over-the.html",
+				
+				"content_html": "<p>Fog over the northern Sonoma valley, getting on an <!-- raw HTML omitted -->Avelo<!-- raw HTML omitted --> flight to Burbank a couple of weeks ago.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Fog over the northern Sonoma valley, getting on an <a href=\"%5C\" https:>Avelo</a> flight to Burbank a couple of weeks ago.\n<figure><img src=\"https://zakwin.micro.blog/uploads/2024/61a6e4fd87.jpg\" class=\"size-full\"></figure>\n",
+				"date_published": "2023-03-28T13:27:15-07:00",
+				"url": "https://winnick.io/2023/03/28/fog-over-the.html",
+				"tags": ["Photos","Status"]
+			},
+			{
+				"id": "http://zakwin.micro.blog/2023/02/15/la-kings-fanfest.html",
+				"title": "LA Kings Fanfest 2023",
+				"content_html": "<p>The rare moment I’m in front of a camera.</p>\n<p>Totally worth it to meet my favorite LA Kings player, Pheonix Copley (he’s the starting goalie, and yes…that’s how he spells his name).</p>\n<p>This was at the 2023 Kings Fan Fest at the Microsoft Theater (across the street from Staples Cen…I mean Crypto.com Arena).</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The rare moment I’m in front of a camera.\n\nTotally worth it to meet my favorite LA Kings player, Pheonix Copley (he’s the starting goalie, and yes…that’s how he spells his name).\n\nThis was at the 2023 Kings Fan Fest at the Microsoft Theater (across the street from Staples Cen…I mean Crypto.com Arena).\n<figure><img src=\"https://zakwin.micro.blog/uploads/2024/7d2dbf4617.jpg\" class=\"size-full\"></figure>\n",
+				"date_published": "2023-02-15T21:24:45-07:00",
+				"url": "https://winnick.io/2023/02/15/la-kings-fanfest.html",
+				"tags": ["Photos","Posts"]
+			}
+	]
+}
