@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://zakwin.micro.blog/2024/04/05/starting-up-a.html",
+				
+				"content_html": "<p>Starting up a new microcast. Nothing posted yet, but come check out <a href=\"https://zakrocast.com\">Zakrocast</a>!</p>\n<p>(See what I did there&hellip;&ldquo;Zak&rdquo;, my name, &ldquo;ro&rdquo; for micro, and &ldquo;cast&rdquo; for&hellip;well, cast)</p>\n",
+				"content_text": "Starting up a new microcast. Nothing posted yet, but come check out [Zakrocast](https://zakrocast.com)!\r\n\r\n(See what I did there...\"Zak\", my name, \"ro\" for micro, and \"cast\" for...well, cast)\n",
+				"date_published": "2024-04-05T08:42:01-07:00",
+				"url": "https://winnick.io/2024/04/05/starting-up-a.html"
+			},
+			{
 				"id": "http://zakwin.micro.blog/2024/03/06/when-your-company.html",
 				
 				"content_html": "<p>When your company holds their annual off-site meeting, but you&rsquo;re the newest employee and don&rsquo;t know anyone&hellip;</p>\n<!-- raw HTML omitted -->\n",
@@ -40,7 +48,7 @@
 				"content_text": "When your mom orders fortune cookies from Amazon, but she’s partially blind and doesn’t actually read the whole description…\n<figure><img src=\"uploads/2024/f281ea2e40.jpg\" class=\"size-full\"></figure>\n<figure><img src=\"uploads/2024/e592f543e7.jpg\" class=\"size-full\"></figure>\n<figure></figure>\n",
 				"date_published": "2024-01-01T20:20:52-07:00",
 				"url": "https://winnick.io/2024/01/01/when-your-mom.html",
-				"tags": ["Photos","Posts","Status"]
+				"tags": ["Photos","Status"]
 			},
 			{
 				"id": "http://zakwin.micro.blog/2023/12/31/finally-started-watching.html",
@@ -67,33 +75,6 @@
 				"content_text": "That time that my friend and I were in the LA Times, talking about our aviation club...\n\n<a href=\"https://www.latimes.com/archives/la-xpm-1997-04-19-me-50210-story.html\" target=\"_blank\" rel=\"noopener\">Prep School Address Helps Aviation Class - Los Angeles Times</a>\n",
 				"date_published": "2023-12-12T11:21:43-07:00",
 				"url": "https://winnick.io/2023/12/12/that-time-that.html",
-				"tags": ["Status"]
-			},
-			{
-				"id": "http://zakwin.micro.blog/2023/12/06/of-course-the.html",
-				
-				"content_html": "<p>Of course the<!-- raw HTML omitted --> Tesla Holiday Update<!-- raw HTML omitted --> brings Apple Podcasts to the cars…right after I switch back to Overcast. 😂</p>\n",
-				"content_text": "Of course the<a href=\"https://www.notateslaapp.com/software-updates/version/2023.44.25/release-notes\" target=\"_blank\" rel=\"noopener\"> Tesla Holiday Update</a> brings Apple Podcasts to the cars…right after I switch back to Overcast. 😂\n",
-				"date_published": "2023-12-06T22:10:21-07:00",
-				"url": "https://winnick.io/2023/12/06/of-course-the.html",
-				"tags": ["Status"]
-			},
-			{
-				"id": "http://zakwin.micro.blog/2023/12/04/playing-around-with.html",
-				
-				"content_html": "<p>Playing around with <!-- raw HTML omitted -->Eleven Labs<!-- raw HTML omitted -->' speech synthesis, I made a trailer for a (not-so) new podcast, the <!-- raw HTML omitted -->StickWorld Podcast<!-- raw HTML omitted -->.</p>\n<p>I thought it was kind of fun&hellip;</p>\n",
-				"content_text": "Playing around with <a href=\"https://elevenlabs.io/\" target=\"_blank\" rel=\"noopener\">Eleven Labs</a>' speech synthesis, I made a trailer for a (not-so) new podcast, the <a href=\"https://www.stickworldpodcast.com/\" target=\"_blank\" rel=\"noopener\">StickWorld Podcast</a>.\n\nI thought it was kind of fun...\n",
-				"date_published": "2023-12-04T15:04:47-07:00",
-				"url": "https://winnick.io/2023/12/04/playing-around-with.html",
-				"tags": ["Status"]
-			},
-			{
-				"id": "http://zakwin.micro.blog/2023/11/02/the-new-beatles.html",
-				
-				"content_html": "<p>The new Beatles song, <!-- raw HTML omitted -->Now and Then<!-- raw HTML omitted -->, is gorgeous.</p>\n<p>It’s been a long time since a song moved me the way this did…for many reasons.</p>\n",
-				"content_text": "The new Beatles song, <a href=\"https://music.apple.com/us/album/now-and-then/1713197371?i=1713197541\" target=\"_blank\" rel=\"noopener\">Now and Then</a>, is gorgeous.\n\nIt’s been a long time since a song moved me the way this did…for many reasons.\n",
-				"date_published": "2023-11-02T22:14:43-07:00",
-				"url": "https://winnick.io/2023/11/02/the-new-beatles.html",
 				"tags": ["Status"]
 			},
 			{
@@ -166,7 +147,7 @@
 				"content_text": "Drove out to <a href=\"https://www.francisfordcoppolawinery.com/\" target=\"_blank\" rel=\"noopener\">Francis Ford Coppola Winery</a> today. I was really excited, but came out disappointed. I was really expecting more from the \"museum\".\n\nHowever, it did allow for a stop in Downtown Healdsburg, where one of my favorite butcher shops in all of CA resides, <a href=\"https://journeymanmeat.com/\" target=\"_blank\" rel=\"noopener\">Journeyman Meat Co.</a>\n\nPlus, they have these awesome paintings in the bathroom...\n<figure><img src=\"https://zakwin.micro.blog/uploads/2024/62c45156a2.jpg\" class=\"size-full\"><img src=\"https://zakwin.micro.blog/uploads/2024/227477b527.jpg\" class=\"size-full\"><img src=\"https://zakwin.micro.blog/uploads/2024/705e66f86e.jpg\" class=\"size-full\"></figure>\n<figure></figure>\n<figure></figure>\n",
 				"date_published": "2023-06-10T18:17:35-07:00",
 				"url": "https://winnick.io/2023/06/10/drove-out-to.html",
-				"tags": ["Photos","Posts"]
+				"tags": ["Photos","Status"]
 			},
 			{
 				"id": "http://zakwin.micro.blog/2023/06/05/initial-thoughts-on.html",
@@ -211,7 +192,7 @@
 				"content_text": "The rare moment I’m in front of a camera.\n\nTotally worth it to meet my favorite LA Kings player, Pheonix Copley (he’s the starting goalie, and yes…that’s how he spells his name).\n\nThis was at the 2023 Kings Fan Fest at the Microsoft Theater (across the street from Staples Cen…I mean Crypto.com Arena).\n<figure><img src=\"https://zakwin.micro.blog/uploads/2024/7d2dbf4617.jpg\" class=\"size-full\"></figure>\n",
 				"date_published": "2023-02-15T21:24:45-07:00",
 				"url": "https://winnick.io/2023/02/15/la-kings-fanfest.html",
-				"tags": ["Photos","Posts"]
+				"tags": ["Photos","Status"]
 			}
 	]
 }
